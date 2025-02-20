@@ -1,0 +1,8 @@
+{
+    "servers": [
+      {
+          "name": "aniserver",
+          "address": "https://anisette-v3-server-cqk8.onrender.com/"
+      }
+    ]
+  }
